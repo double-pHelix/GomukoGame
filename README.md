@@ -9,6 +9,6 @@ A Typical Game
 ![Menu Image](/screenshots/3.PNG?raw=true "Menu")
 
 
-Menu
+Main Menu
 
 ![Menu Image](/screenshots/1.PNG?raw=true "Menu")
